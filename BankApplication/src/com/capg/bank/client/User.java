@@ -36,7 +36,7 @@ public class User {  // shanti
 			switch (choice) {
 			case 1:
 
-					// deposit
+				// deposit
 				bank.deposit();
 				
 				break;
